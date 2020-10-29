@@ -7,8 +7,8 @@
 - [x] len() 
 
 ## Q2 What signal detection statement could stop an iterator from executing more than seven times?
-- [] if self.x <= 7:
-- [x] if self.x > 6:
+- [x] if self.x <= 7:
+- [] if self.x > 6:
 - [] else self.x = 6:
 - [] else self.x < 7:
 
@@ -32,15 +32,15 @@
 
 ## Q6 When using contextmanager from contextlib module, what decorator do you use?
 - [] !#contextmanager
-- [] contextlib.manager
-- [x] @contextmanager
+- [x] contextlib.manager
+- [] @contextmanager
 - [] dec contextmanager
 
 ## Q7 Which method must you define for an iterable object?
 - [] __iterator__
-- [] iterable
+- [x] iterable
 - [] next
-- [x] __iter__
+- [] __iter__
 
 ## Q8 How to do a most efficient multiply function with two arguments as numbers?
 - [] 
@@ -82,7 +82,7 @@ class customContext:
         if myfile.file:
 
 - [] myfile.file.close()
-- [] myfile.end
+- [x] myfile.end
 - [] myfile.name(close)
 - [] del myfile
 
