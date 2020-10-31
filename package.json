@@ -1,0 +1,8 @@
+{
+  "name": "pluralsight-skill-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tik9/pluralsight-skill-test.git",
+  "author": "Timo Körner <user153015@gmail.com>",
+  "license": "MIT"
+}
