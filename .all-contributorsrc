@@ -1,5 +1,7 @@
 {
-  "files": ["README.md"],
+  "files": [
+    "README.md"
+  ],
   "imageSize": 100,
   "contributorsPerLine": 7,
   "contributorsSortAlphabetically": false,
@@ -13,9 +15,19 @@
     }
   },
   "skipCi": true,
-  "contributors": [],
+  "contributors": [
+    {
+      "login": "tik9",
+      "name": "Timo Körner",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/3178925?v=4",
+      "profile": "http://tik9.github.io/cv",
+      "contributions": [
+        "business"
+      ]
+    }
+  ],
   "projectName": "pluralsight-skill-test",
-  "projectOwner": "Timo Körner",
+  "projectOwner": "tik9",
   "repoType": "github",
   "repoHost": "https://github.com"
 }
