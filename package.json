@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/tik9/pluralsight-skill-test.git",
   "author": "Timo Körner <user153015@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "all-contributors-cli": "^6.19.0"
+  }
 }
