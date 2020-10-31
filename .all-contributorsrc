@@ -1,6 +1,6 @@
 {
   "projectName": "pluralsight-skill-test",
-  "projectOwner": "Timo Körner",
+  "projectOwner": "tik9",
   "repoType": "github",
   "repoHost": "https://github.com",
   "files": [
@@ -9,6 +9,18 @@
   "imageSize": 100,
   "commit": true,
   "commitConvention": "none",
-  "contributors": [],
-  "contributorsPerLine": 7
-}
+  "contributorsSortAlphabetically": false,
+  "contributors": [
+    {
+      "login": "tik9",
+      "name": "Timo Körner",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/3178925?v=4",
+      "profile": "http://tik9.github.io/cv",
+      "contributions": [
+        "business"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true
+ }
