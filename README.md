@@ -14,6 +14,7 @@
 | [Mysql](https://github.com/tik9/pluralsight/blob/master/mysql.md) | ok |
 | [Powershell](https://github.com/tik9/pluralsight/blob/master/powershell.md) | non-offical |
 | [Python](https://github.com/tik9/pluralsight/blob/master/python.md) | ok |
+| [Building Websites with HTML, CSS, and JavaScript](https://github.com/tik9/pluralsight/blob/master/building-websites.md) | ok |
 
 
 ## Contributors ✨
