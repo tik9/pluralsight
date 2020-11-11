@@ -13,8 +13,8 @@ If you want to see how I record questions as Image and parse them with Tesseract
 
 <!-- please check [here](https://github.com/tik9/ml). -->
 
-- get text from an image [here](https://github.com/tik9/ml/tess_image.sh)
-- make the text beautiful and formatted [here](https://github.com/tik9/ml/tess_md.py)
+- get text from image (Code [here](https://github.com/tik9/ml/blob/master/tess_image.sh))
+- make the text beautiful and formatted (code [here](https://github.com/tik9/ml/blob/master/tess_md.py))
   
   &nbsp;
 
