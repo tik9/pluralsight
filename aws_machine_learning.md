@@ -1,5 +1,4 @@
 
-
 #### 1. What metrics does Comprehend provide us regarding the sentiment of a document?
 - [] If the document is positive or negative.
 - [] Sentiment scores in order for Good, Bad, and Ok.
