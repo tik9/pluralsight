@@ -6,7 +6,7 @@
 
 > This repository does not pretend to give you all answers for **Pluralsight questions**, rather it's a starting guide to help you prepare for the skills quiz and to know what to expect. 
 
-Should you have found some incorrect answers, or want to contribute your answers in a md file, please feel free to create any PR.  
+Should you have found some incorrect answers, or want to contribute your answers in a md file, please feel free to create a PR.  
   &nbsp;
   
   &nbsp;
