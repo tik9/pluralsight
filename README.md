@@ -21,7 +21,7 @@ Should you have found some incorrect answers, or want to contribute your answers
 | [Java](https://github.com/tik9/pluralsight/blob/master/java.md) | ok |
 | [Mysql](https://github.com/tik9/pluralsight/blob/master/mysql.md) | ok |
 | [Powershell](https://github.com/tik9/pluralsight/blob/master/powershell.md) | non-offical |
-| [Python](https://github.com/tik9/pluralsight/blob/master/python.md) | ok |
+| [Python](https://github.com/tik9/pluralsight/blob/master/python_core.md) | ok |
 
   &nbsp;
 
