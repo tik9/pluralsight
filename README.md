@@ -15,6 +15,7 @@ Should you have found some incorrect answers, or want to contribute your answers
 
 | Quiz      |  Status |
 | --------- |  ------ |
+| [Angular](https://github.com/tik9/pluralsight/blob/master/angular.md) | ok |
 | [Aws Big Data](https://github.com/tik9/pluralsight/blob/master/aws_big_data.md) | ok |
 | [Aws Machine Learning](https://github.com/tik9/pluralsight/blob/master/aws_machine_learning.md) | ok |
 | [Building Websites with HTML, CSS, and JavaScript](https://github.com/tik9/pluralsight/blob/master/building-websites.md) | ok |
