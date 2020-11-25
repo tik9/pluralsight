@@ -10,13 +10,13 @@
 
 ## Getting Started
 
-How do I get a **Pluralsight Account** and do a test?
+How do I create a **Pluralsight Account** and do a test?
 - [Signup](https://app.pluralsight.com) and get an account
 - it is free
 - In your profile (top right on dashboard) click on **+ Add more skills to your profile** (see image 1)
 - You should now be on the [SkillIQ site](https://app.pluralsight.com/skilliq)
 - Enter a Search Name for the skill assessments on the right, like **IOS TDD** or **React**(Image 2)
-- Select one and Start the test (Show off your skills!)
+- Select one and Start the test (**Show off!**)
 
 &nbsp;
 
@@ -36,20 +36,21 @@ Should you have found some incorrect answers, or want to contribute your answers
 &nbsp;
   
 &nbsp;
-
 ### Table of Contents
 
 | Quiz      |  Status |
 | --------- |  ------ |
-| [Angular](https://github.com/tik9/pluralsight/blob/master/angular.md) | ok |
-| [Aws Big Data](https://github.com/tik9/pluralsight/blob/master/aws_big_data.md) | ok |
-| [Aws Machine Learning](https://github.com/tik9/pluralsight/blob/master/aws_machine_learning.md) | ok |
-| [Building Websites with HTML, CSS, and JavaScript](https://github.com/tik9/pluralsight/blob/master/building-websites.md) | ok |
-| [Building Web Apps with React](https://github.com/tik9/pluralsight-skill-test/blob/master/building_web_apps_with_react.md) | tbd |
-| [Java](https://github.com/tik9/pluralsight/blob/master/java.md) | ok |
-| [Mysql](https://github.com/tik9/pluralsight/blob/master/mysql.md) | ok |
-| [Powershell](https://github.com/tik9/pluralsight/blob/master/powershell.md) | non-offical |
-| [Python](https://github.com/tik9/pluralsight/blob/master/python_core.md) | ok |
+| [Angular](angular.md) | ok |
+| [AngularJs](angularjs.md) | ok |
+| [Aws Big Data](aws_big_data.md) | ok |
+| [Aws Machine Learning](aws_machine_learning.md) | ok |
+| [Building Websites with HTML, CSS, and JavaScript](building-websites.md) | ok |
+| [Building Web Apps with React](building_web_apps_with_react.md) | ok |
+| [Java](java.md) | ok |
+| [Javascript](javascript.md) | ok |
+| [Mysql](mysql.md) | ok |
+| [Powershell](powershell.md) | non-offical |
+| [Python](python_core.md) | ok |
 
   &nbsp;
 
@@ -80,15 +81,12 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
   &nbsp;
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Sensible contributions welcome!
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Sensible contributions via **PR** welcome!
 
   &nbsp;
 
-## Automate the creation of PRs
+## Going further
   &nbsp;
-If you want to see how I parse questions from Pluralsight with **Tesseract and Python**: 
 
-<!-- please check [here](https://github.com/tik9/ml). -->
-
-- get **text from image** ([Code](https://github.com/tik9/ml/blob/master/tess_image.sh))
-- prepare it as question and answer text and make it **formatted** ([Code](https://github.com/tik9/ml/blob/master/tess_md.py))
+- [Getting Started](https://github.com/tik9/tesseractToMarkdown) with Tesseract and Python
+- [**More** Skill tests not related to Pluralsight](https://github.com/tik9/further-skill-tests)
