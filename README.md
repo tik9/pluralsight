@@ -10,13 +10,13 @@
 
 ## Getting Started
 
-How do I get a **Pluralsight Account** and do a test?
+How do I create a **Pluralsight Account** and do a test?
 - [Signup](https://app.pluralsight.com) and get an account
 - it is free
 - In your profile (top right on dashboard) click on **+ Add more skills to your profile** (see image 1)
 - You should now be on the [SkillIQ site](https://app.pluralsight.com/skilliq)
 - Enter a Search Name for the skill assessments on the right, like **IOS TDD** or **React**(Image 2)
-- Select one and Start the test (Show off your skills!)
+- Select one and Start the test (**Show off your skills!**)
 
 &nbsp;
 
@@ -36,7 +36,6 @@ Should you have found some incorrect answers, or want to contribute your answers
 &nbsp;
   
 &nbsp;
-
 ### Table of Contents
 
 | Quiz      |  Status |
@@ -45,7 +44,7 @@ Should you have found some incorrect answers, or want to contribute your answers
 | [Aws Big Data](https://github.com/tik9/pluralsight/blob/master/aws_big_data.md) | ok |
 | [Aws Machine Learning](https://github.com/tik9/pluralsight/blob/master/aws_machine_learning.md) | ok |
 | [Building Websites with HTML, CSS, and JavaScript](https://github.com/tik9/pluralsight/blob/master/building-websites.md) | ok |
-| [Building Web Apps with React](https://github.com/tik9/pluralsight-skill-test/blob/master/building_web_apps_with_react.md) | tbd |
+| [Building Web Apps with React](https://github.com/tik9/pluralsight-skill-test/blob/master/building_web_apps_with_react.md) | ok |
 | [Java](https://github.com/tik9/pluralsight/blob/master/java.md) | ok |
 | [Mysql](https://github.com/tik9/pluralsight/blob/master/mysql.md) | ok |
 | [Powershell](https://github.com/tik9/pluralsight/blob/master/powershell.md) | non-offical |
