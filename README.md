@@ -16,7 +16,7 @@ How do I create a **Pluralsight Account** and do a test?
 - In your profile (top right on dashboard) click on **+ Add more skills to your profile** (see image 1)
 - You should now be on the [SkillIQ site](https://app.pluralsight.com/skilliq)
 - Enter a Search Name for the skill assessments on the right, like **IOS TDD** or **React**(Image 2)
-- Select one and Start the test (**Show off your skills!**)
+- Select one and Start the test (**Show off!**)
 
 &nbsp;
 
@@ -46,6 +46,7 @@ Should you have found some incorrect answers, or want to contribute your answers
 | [Building Websites with HTML, CSS, and JavaScript](https://github.com/tik9/pluralsight/blob/master/building-websites.md) | ok |
 | [Building Web Apps with React](https://github.com/tik9/pluralsight-skill-test/blob/master/building_web_apps_with_react.md) | ok |
 | [Java](https://github.com/tik9/pluralsight/blob/master/java.md) | ok |
+| [Javascript](https://github.com/tik9/pluralsight/blob/master/javascript.md) | ok |
 | [Mysql](https://github.com/tik9/pluralsight/blob/master/mysql.md) | ok |
 | [Powershell](https://github.com/tik9/pluralsight/blob/master/powershell.md) | non-offical |
 | [Python](https://github.com/tik9/pluralsight/blob/master/python_core.md) | ok |
@@ -79,15 +80,13 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
   &nbsp;
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Sensible contributions welcome!
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Sensible contributions via **PR** welcome!
 
   &nbsp;
 
-## Automate the creation of PRs
+## Automate the creation of PRs with Tesseract and Python
   &nbsp;
-If you want to see how I parse questions from Pluralsight with **Tesseract and Python**: 
 
-<!-- please check [here](https://github.com/tik9/ml). -->
-
-- get **text from image** ([Code](https://github.com/tik9/ml/blob/master/tess_image.sh))
-- prepare it as question and answer text and make it **formatted** ([Code](https://github.com/tik9/ml/blob/master/tess_md.py))
+- [Get **text from image**](https://github.com/tik9/tesseractToMarkdown/blob/master/image.py)
+- [Prepare it as **question and answer text**](https://github.com/tik9/tesseractToMarkdown/blob/master/image.py)
+- [Make it **formatted**](https://github.com/tik9/tesseractToMarkdown/blob/master/image.py)
