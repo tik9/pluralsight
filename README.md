@@ -41,6 +41,7 @@ Should you have found some incorrect answers, or want to contribute your answers
 | Quiz      |  Status |
 | --------- |  ------ |
 | [Angular](https://github.com/tik9/pluralsight/blob/master/angular.md) | ok |
+| [AngularJs](https://github.com/tik9/pluralsight/blob/master/angularjs.md) | ok |
 | [Aws Big Data](https://github.com/tik9/pluralsight/blob/master/aws_big_data.md) | ok |
 | [Aws Machine Learning](https://github.com/tik9/pluralsight/blob/master/aws_machine_learning.md) | ok |
 | [Building Websites with HTML, CSS, and JavaScript](https://github.com/tik9/pluralsight/blob/master/building-websites.md) | ok |
@@ -84,9 +85,8 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
   &nbsp;
 
-## Automate the creation of PRs with Tesseract and Python
+## Going further
   &nbsp;
 
-- [Get **text from image**](https://github.com/tik9/tesseractToMarkdown/blob/master/image.py)
-- [Prepare it as **question and answer text**](https://github.com/tik9/tesseractToMarkdown/blob/master/image.py)
-- [Make it **formatted**](https://github.com/tik9/tesseractToMarkdown/blob/master/image.py)
+- [Getting Started](https://github.com/tik9/tesseractToMarkdown) with Tesseract and Python
+- [Skill tests not related to Pluralsight](https://github.com/tik9/further-skill-tests)
