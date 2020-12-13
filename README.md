@@ -89,8 +89,4 @@ This project follows the [all-contributors](https://github.com/all-contributors/
   &nbsp;
 
 - [Getting Started](https://github.com/tik9/tesseractToMarkdown) with Tesseract and Python
-<<<<<<< HEAD
 - [**More** Skill tests not related to Pluralsight](https://github.com/tik9/further-skill-tests)
-=======
-- [Skill tests not related to Pluralsight](https://github.com/tik9/further-skill-tests)
->>>>>>> 2747ed805c16a4a4a5f51bbc3be80c4acb382e4f
