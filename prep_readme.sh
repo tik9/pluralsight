@@ -1,4 +1,3 @@
-#! /bin/bash
 
 dir=$HOME/pl
 
@@ -6,20 +5,25 @@ readme=$dir/README.md
 
 root=https://github.com/tik9/pluralsight-skill-test/blob/master
 
-input=$( echo $@| sed -e 's/ /_/g')
-input=$(echo $input | tr '[:upper:]' '[:lower:]')
+newest=$(ls -t $dir|head -1)
+arrnew=(${newest//_/ })
+echo neu, arrneu $newest $arrnew
 
-newmd=$root/$input.md
+# input=$( echo $@| sed -e 's/ /_/g')
+# input=$(echo $input | tr '[:upper:]' '[:lower:]')
 
-touch $dir/$input.md
-exit
+# newmd=$root/$input.md
+
+# touch $dir/$input.md
+# exit
 
 echo -e '\n'
 # curl $newmd
 
-str="| [$@]($newmd) | ok |"
+# str="| [$@]($newmd) | ok |"
+str="| [$@]($newest) | ok |"
 
-echo -e "\n\n $website\n"
-echo $str |clip.exe
+# echo -e "\n\n $website\n"
+# echo $str |clip.exe
 # code $readme
-echo $dir/$input.md
+# echo $dir/$input.md
