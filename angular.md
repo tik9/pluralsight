@@ -27,9 +27,9 @@
 
 
 #### 5. Which of the following will result in the style classes "main" and "tall" being added to the DOM node?
-- [] [ngClass]="'main tall"
+- [x] [ngClass]="'main tall"
 - [] [ngClass]="'main + tall"
-- [x] [ngClass]="'main : tall'
+- [] [ngClass]="'main : tall'
 - [] [ngClass]="'main && tall'"
 
 
