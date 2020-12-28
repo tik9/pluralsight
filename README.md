@@ -17,3 +17,13 @@ Table of Contents
 - [Python Core](python_core.md)
 - [Python Data Analysis](python_data_analysis.md)
 - [Python applied Data Mining](python_applied_data_mining.md)
+- [Python Web Scraping](python_web_scraping.md)
+- [Python Exploratory Data Analysis](python_exploratory_data_analysis.md)
+
+<br>
+
+### Going further
+
+- [Getting Started](https://github.com/tik9/tesseractToMarkdown) with Tesseract and Python
+
+- [**More** Skill tests not related to Pluralsight](https://github.com/tik9/further-skill-tests)
