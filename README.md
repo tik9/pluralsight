@@ -2,7 +2,7 @@
 
 <br><br>This repository does not pretend to give you all answers for [Pluralsight Skill questions](https://app.pluralsight.com), rather it is a starting guide to help you prepare for the skills quiz and to know what to expect.<br><br>
 
-Table of Contents
+### Table of Contents
 
 - [Angular](angular.md)
 - [AngularJs](angularjs.md)
@@ -19,6 +19,7 @@ Table of Contents
 - [Python applied Data Mining](python_applied_data_mining.md)
 - [Python Web Scraping](python_web_scraping.md)
 - [Python Exploratory Data Analysis](python_exploratory_data_analysis.md)
+- [Python Clean Data](python_clean_data.md)
 
 <br>
 
@@ -26,4 +27,4 @@ Table of Contents
 
 - [Getting Started](https://github.com/tik9/tesseractToMarkdown) with Tesseract and Python
 
-- [**More** Skill tests not related to Pluralsight](https://github.com/tik9/further-skill-tests)
+- [More Skill tests not related to Pluralsight](https://github.com/tik9/further-skill-tests)
