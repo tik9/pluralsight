@@ -1,5 +1,9 @@
 ## Pluralsight-quiz-questions
 
+
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+
+
 <br><br>This repository does not pretend to give you all answers for [Pluralsight Skill questions](https://app.pluralsight.com), rather it is a starting guide to help you prepare for the skills quiz and to know what to expect.<br><br>
 
 ### Table of Contents
@@ -20,6 +24,27 @@
 - [Python Web Scraping](python_web_scraping.md)
 - [Python Exploratory Data Analysis](python_exploratory_data_analysis.md)
 - [Python Clean Data](python_clean_data.md)
+- [Python Data Visualization](python_data_visualization.md)
+<!---
+end List
+-->
+<br>
+
+
+  &nbsp;
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+<table>
+  <tr>
+    <td align="center"><a href="http://tik9.github.io/cv"><img src="https://avatars0.githubusercontent.com/u/3178925?v=4" width="100px;" alt=""/><br /><sub><b>Timo Körner</b></sub></a><br /><a href="#business-tik9" title="Business development">💼</a> <a href="https://github.com/tik9/pluralsight-skill-test/commits?author=tik9" title="Code">💻</a></td>
+  </tr>
+</table>
+
+
+  &nbsp;
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Sensible contributions via **PR** welcome!
 
 <br>
 
