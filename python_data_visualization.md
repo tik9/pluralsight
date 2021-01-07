@@ -1,29 +1,39 @@
 
 
 #### 1. Which code snippet best uses the penCV histogram equalization method to take in a grayscale image and output a histogram equalized image while -displaying them side by side
-- [] image = cv2.input('picture.jpg')
-
 ```python
+- []
+image = cv2.input('picture.jpg')
+
 equ = cv2.equalize( image)
 highRes = np.hstack((image, equ) )
 cv2.output ( 'highRes.png' ,highRes)
 ```
-- [] image = cv2.imread('picture.jpg',0)
 
 ```python
+- []
+image = cv2.imread('picture.jpg',0)
+
 equ = cv2.equalizeHist (image)
 highRes = np.hstack((image, equ) )
 cv2.imwrite('highRes.png' , highRes)
 ```
-- [] equ = cv2.Hist (image)
 
 ```python
+- []
+equ = cv2.Hist (image)
+
 equ = cv2.equalizeHist(image)
 highRes = np.imgstack((image, equ))
 cv2.imwrite(‘highRes.png' ,highRes)
 ```
-- [] image = cv2.imread('picture.jpg)equ = cv2.equalizeHist(image)cv2.imvrite(‘highRes.png',highRes)
 
+```python
+- []
+image = cv2.imread('picture.jpg)
+equ = cv2.equalizeHist(image)
+cv2.imvrite(‘highRes.png',highRes)
+```
 
 #### 2. What would plot a grouped bar chart for the number of dogs for the following objects?
 
@@ -42,9 +52,10 @@ y=[19],
 name='East Kennel’
 )
 ```
-- [] data = [t1, t2]
-
 ```python
+- []
+data = [t1, t2]
+
 layout = go.Layout(
 barmode=' basic’
 )
@@ -81,24 +92,28 @@ py. iplot (dogsFigure, filename='grouped-bar')
 
 
 #### 3. Why does this code fail to create two trace points of data for the 3D scatter plot?
-- [] import plotly.plotly as py
-- [] import plotly.graph_objs as go
-- [] import numpy as np
-- [] x, y, z = np.random.multivariate_normal(np.array([0,0,0]), np.eye(3), 200).transpose()
-- [] tracel = go.Scatter3d(
-- [] x=x,
-- [] y=y
-- [] z=z,
-- [] )
-- [] x2, y2, Z2 = np.random.multivariate_normal(np.array([0,0,0]), np.eye(3), 200).transpose()
-- [] trace2 = go.Scatter3d(
-- [] x=x,
-- [] y=y,
-- [] z=z,
-- [] )
-- [] data = [trace1]
-- [] fig = go.Figure(data=data, layout=layout)
-- [] py.iplot(fig3D, filename='3dTEST')
+
+```python
+import plotly.plotly as py
+import plotly.graph_objs as go
+import numpy as np
+x, y, z = np.random.multivariate_normal(np.array([0,0,0]), np.eye(3), 200).transpose()
+tracel = go.Scatter3d(
+x=x,
+y=y
+z=z,
+)
+x2, y2, Z2 = np.random.multivariate_normal(np.array([0,0,0]), np.eye(3), 200).transpose()
+trace2 = go.Scatter3d(
+x=x,
+y=y,
+z=z,
+)
+data = [trace1]
+fig = go.Figure(data=data, layout=layout)
+py.iplot(fig3D, filename='3dTEST')
+```
+
 - [] There is no color designated for either trace variable so only 1 can be returned.
 - [] The numpy random number generator does not return a value for the trace2 variable.
 - [] The trace2 variable is not initiated correctly.
@@ -134,6 +149,7 @@ legend=False)
 plt.legend(Loc='lower right')
 sns.plt.show()
 ```
+
 ```python
 - []
 import seaborn as sns
@@ -148,6 +164,7 @@ egend=False)
 plt.legend(loc="lower right")
 plt.show()
 ```
+
 ```python
 - []
 import seaborn as sns
@@ -175,6 +192,7 @@ plt.xRange((2008, 2018))
 plt.yRange((201, 209) )
 plt.show()
 ```
+
 ```python
 - []
 plot (year, sales)
@@ -186,6 +204,7 @@ plt.setXLimit( (2008, 2018))
 plt.setYLimt((200, 210))
 plt.show()
 ```
+
 ```python
 - []
 plt.plot (year, sales)
@@ -197,6 +216,7 @@ plt.xLim((2008, 2018) )
 plt.ylim((200, 210))
 plt.show()
 ```
+
 ```python
 - []
 plt.plot(year, sales)
@@ -210,7 +230,7 @@ plt.show()
 ```
 
 
-#### 7. You must do time series analysis of daily railway train passenger volumes,provided in the data set df. You want to explore the relationship between -the volumes and its lags, and decide to plot for the same. What will perform this task for you
+#### 7. You must do time series analysis of daily railway train passenger volumes,provided in the data set df. You want to explore the relationship between the volumes and its lags, and decide to plot for the same. What will perform this task for you
 
 ```python
 - [] 
@@ -254,6 +274,7 @@ pd.show()
 
 
 #### 8. As a credit analyst, you want to understand the distribution of interest rates Cint_rate) charged to different customers based on the purpose of the loan.The dataset is dat . Which command will produce the required chart
+
 ```python
 - [] 
 import matplotlib.pyplot as plt
@@ -265,11 +286,13 @@ plt.show()
 dat.boxplot(column='int.rate', by='purpose')
 plt.show()
 ```
+
 ```python
 - []
 import matplotlib.pyplot as plt dat.boxplot(column='purpose’, by='int.rate')
 plt.show()
 ```
+
 ```python
 - []
 import matplotlib.pyplot as plt dat.boxplot(column='int.rate', by='purpose’, rot=90)
