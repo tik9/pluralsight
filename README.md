@@ -45,6 +45,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="http://tik9.github.io/cv"><img src="https://avatars0.githubusercontent.com/u/3178925?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Timo Körner</b></sub></a><br /><a href="#business-tik9" title="Business development">💼</a> <a href="https://github.com/tik9/pluralsight-skill-tests/commits?author=tik9" title="Code">💻</a> <a href="#design-tik9" title="Design">🎨</a> <a href="#ideas-tik9" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/johnny-israel-villac%C3%ADs-abril-2a7b5b113/"><img src="https://avatars0.githubusercontent.com/u/20216696?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Shoni Israel</b></sub></a><br /><a href="#design-shoniisrael" title="Design">🎨</a> <a href="https://github.com/tik9/pluralsight-skill-tests/commits?author=shoniisrael" title="Code">💻</a></td>
   </tr>
 </table>
 
