@@ -1,5 +1,5 @@
 {
-  "projectName": "pluralsight-skill-test",
+  "projectName": "pluralsight-skill-tests",
   "projectOwner": "tik9",
   "repoType": "github",
   "repoHost": "https://github.com",
@@ -18,6 +18,18 @@
       "profile": "http://tik9.github.io/cv",
       "contributions": [
         "business",
+        "code",
+        "design",
+        "ideas"
+      ]
+    },
+    {
+      "login": "shoniisrael",
+      "name": "Shoni Israel",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/20216696?v=4",
+      "profile": "https://www.linkedin.com/in/johnny-israel-villac%C3%ADs-abril-2a7b5b113/",
+      "contributions": [
+        "design",
         "code"
       ]
     }
