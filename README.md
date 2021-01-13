@@ -25,12 +25,13 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="http://tik9.github.io/cv"><img src="https://avatars0.githubusercontent.com/u/3178925?v=4" width="100px;" alt=""/><br /><sub><b>Timo Körner</b></sub></a><br /><a href="#business-tik9" title="Business development">💼</a> <a href="https://github.com/tik9/pluralsight-skill-test/commits?author=tik9" title="Code">💻</a></td>
+    <td align="center"><a href="http://tik9.github.io/cv"><img src="https://avatars0.githubusercontent.com/u/3178925?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Timo Körner</b></sub></a><br /><a href="#business-tik9" title="Business development">💼</a> <a href="https://github.com/tik9/pluralsight-skill-tests/commits?author=tik9" title="Code">💻</a> <a href="#design-tik9" title="Design">🎨</a></td>
   </tr>
 </table>
 
-<!-- markdownlint-enable -->
+<!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
