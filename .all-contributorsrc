@@ -1,5 +1,5 @@
 {
-  "projectName": "pluralsight-skill-test",
+  "projectName": "pluralsight-skill-tests",
   "projectOwner": "tik9",
   "repoType": "github",
   "repoHost": "https://github.com",
@@ -18,7 +18,8 @@
       "profile": "http://tik9.github.io/cv",
       "contributions": [
         "business",
-        "code"
+        "code",
+        "design"
       ]
     }
   ],

@@ -33,25 +33,27 @@ end List
 -->
 
 
-  &nbsp;
+&nbsp;
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="http://tik9.github.io/cv"><img src="https://avatars0.githubusercontent.com/u/3178925?v=4" width="100px;" alt=""/><br /><sub><b>Timo Körner</b></sub></a><br /><a href="#business-tik9" title="Business development">💼</a> <a href="https://github.com/tik9/pluralsight-skill-test/commits?author=tik9" title="Code">💻</a></td>
-  </tr>
-    <tr>
+    <td align="center"><a href="http://tik9.github.io/cv"><img src="https://avatars0.githubusercontent.com/u/3178925?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Timo Körner</b></sub></a><br /><a href="#business-tik9" title="Business development">💼</a> <a href="https://github.com/tik9/pluralsight-skill-tests/commits?author=tik9" title="Code">💻</a> <a href="#design-tik9" title="Design">🎨</a></td>
     <td align="center"><a href="https://github.com/Ebazhanov"><img src="https://avatars2.githubusercontent.com/u/13170022?s=400&u=e9703c89f0b0eb69d0e9630afbbdd31aaa7c0ad8&v=4" width="100px;" alt=""/><br /><sub><b>Evgenii Bazhanov</b></sub></a><br /><a href="#business" title="Business development">💼</a> <a href="" title="Code">💻</a></td>
-  </tr>
-      <tr>
-    <td align="center"><a href="https://github.com/shoniisrael"><img src=https://avatars1.githubusercontent.com/u/20216696?s=400&u=31d9e1270608efdb51f213a255c5895e5b2fadbc&v=4
-width="100px;" alt=""/><br /><sub><b>Shoni Israel</b></sub></a><br /><a href="#business" title="Business development">💼</a> <a href="" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/shoniisrael"><img src=https://avatars1.githubusercontent.com/u/20216696?s=400&u=31d9e1270608efdb51f213a255c5895e5b2fadbc&v=4" width="100px;" alt=""/><br /><sub><b>Shoni Israel</b></sub></a><br /><a href="#business" title="Business development">💼</a> <a href="" title="Code">💻</a></td>
   </tr>
 </table>
 
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
 
-  &nbsp;
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Sensible contributions via PR welcome!
 
